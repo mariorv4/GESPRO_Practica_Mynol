@@ -3,6 +3,7 @@
 ## Descripción
 Gespro Mynol es una aplicación bancaria enfocada en la optimización de la gestión financiera mediante metodologías ágiles. Utilizamos **GitHub** para el control de versiones y **ZenHub** para la gestión de proyectos, facilitando la planificación de releases y sprints de forma eficiente.
 ## Colaboradores
+El readme lo hemos hecho los tres en un archivo txt pero solo lo puedo editar yo(Mario Remacha), que soy el creador.
 ![Captura de pantalla 2024-11-18 225737](https://github.com/user-attachments/assets/70d65555-7140-4279-9e7a-4d75f151954c)
 
 ## Guía de Inicio
