@@ -13,8 +13,6 @@ Para comenzar, los usuarios pueden explorar el proyecto mediante las siguientes 
 	Primero se crea una cuenta de GitHub y añadimos a los colaboradores.
 	Después creamos una cuenta de ZenHub y creamos un espacio de trabajo y lo compartimos con los compañeros. Lo vinculamos con la cuenta de GitHub y ya podemos empezar a trabajar en él.
  	Ingresa al repositorio de **GitHub** asociado y navega a la pestaña de ZenHub para visualizar el tablero de trabajo. Aquí se encuentra toda la planificación y el seguimiento del progreso.
-![image](https://github.com/user-attachments/assets/b1e4a404-dbbc-47c6-a2f0-ddd113dabcfa)
-
 
 3. **Organización del Proyecto**: 
    - El trabajo está dividido en Epics que representan los módulos principales de la aplicación.
